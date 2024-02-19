@@ -1,0 +1,16 @@
+h1, p {
+    text-align: center;
+}
+
+div.link {
+    text-align: center;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
